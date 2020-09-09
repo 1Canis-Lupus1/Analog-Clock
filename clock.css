@@ -1,0 +1,38 @@
+#container{
+    position: relative;
+    margin: auto;
+    border: 2px solid blueviolet;
+    height: 40vw;
+    width: 40vw;
+    background: url(layout.jpg) no-repeat;
+    background-size: 100%;
+}
+
+#top{
+    margin: auto;
+    background-size: 100%;
+    height: 20vw;
+    width: 20vw;
+}
+
+#hour, #minute, #second{
+    position: absolute;
+    background: black;
+    border-radius: 10px;
+}
+
+#hour {
+    height: 22%;
+    width: 1%;
+    top: 29%;
+    left: 49.5%;
+}
+
+#minute{
+
+}
+
+#second{
+
+}
+

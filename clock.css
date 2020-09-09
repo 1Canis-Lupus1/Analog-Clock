@@ -23,16 +23,24 @@
 
 #hour {
     height: 22%;
-    width: 1%;
+    width: 1.5%;
     top: 29%;
     left: 49.5%;
+    display: none;
 }
 
 #minute{
-
+    height: 26%;
+    width: 1%;
+    top: 25%;
+    left: 49.5%;
+    display: none;
 }
 
 #second{
-
+    height: 32%;
+    width: 0.8%;
+    top: 18%;
+    left: 49.5%;
 }
 
